@@ -9,7 +9,7 @@ I believe the future of software is **AI-Driven Software Lifecycle** — and suc
 → Understanding how these tools work  
 → Setting crystal‑clear goals (thinking through your product thoroughly and expressing it in text)  
 → Crafting precise prompts or steps   
-→ Providing the right context 🧠
+→ Providing the right context 🧠    
 Achieving all of this demands a deep understanding of what happens under the hood and the agility to learn quickly to stay relevant.
 
 “Software development” as we know it will be largely **automated**.  
