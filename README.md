@@ -13,7 +13,5 @@ I believe the future of software is **AI-Driven Software Lifecycle** — and suc
 Achieving all of this demands a deep understanding of what happens under the hood and the agility to learn quickly to stay relevant.
 
 “Software development” as we know it will be largely **automated**.  
-In its place: **AI-savvy engineers** who can design scalable, maintainable, secure, and engaging products — and integrate AI through RAG pipelines or agents that drive real business value — will be in high demand 🚀.
+In its place: **AI-savvy software engineers** who can design scalable, maintainable, secure, and engaging products — and integrate AI through RAG pipelines or agents that drive real business value — will be in high demand 🚀.
 
-I’m focusing on **end‑to‑end AI‑driven software development in startups**:  
-From eye‑catching designs and rock‑solid backends to AI integration, seamless deployments, and high uptime — bridging engineering and architecture with AI at every step.
